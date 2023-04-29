@@ -19,12 +19,11 @@ body, html {
   max-width: 100%;
   grid-template-columns: repeat(4, 266px);
   grid-auto-rows: 266px;
-  row-gap: 1.5rem; /* Example grid gap */
-  column-gap: 1.5rem; /* Example column gap */
+  row-gap: 1.5rem; 
+  column-gap: 1.5rem; 
 }
 
 .grid-item {
-  /* Grid item styles */
 }
 
 .first-project {
@@ -107,7 +106,6 @@ body, html {
 }
 
 
-//////*********** WAVE SOUND ANIMATION ***********//////
 
 @keyframes quiet {
   25%{
@@ -144,7 +142,6 @@ body, html {
   }
 }
 
-/*ANIMATION SPOTIFY SOUND*/
 
 .boxContainer{
   display: flex;
