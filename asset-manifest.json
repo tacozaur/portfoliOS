@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfoliOS/static/css/main.e8b01c56.css",
-    "main.js": "/portfoliOS/static/js/main.190f13bb.js",
+    "main.js": "/portfoliOS/static/js/main.b5e0f489.js",
     "static/js/483.0582da44.chunk.js": "/portfoliOS/static/js/483.0582da44.chunk.js",
     "static/media/pink-flowers.jpg": "/portfoliOS/static/media/pink-flowers.710bbf2f8d28de212f4b.jpg",
     "static/media/littlelemon-restaurant-project.PNG": "/portfoliOS/static/media/littlelemon-restaurant-project.9617a1c94e5c2d9863ef.PNG",
@@ -31,11 +31,11 @@
     "static/media/javascript-logo.png": "/portfoliOS/static/media/javascript-logo.266bd9fb2663dcc057b4.png",
     "index.html": "/portfoliOS/index.html",
     "main.e8b01c56.css.map": "/portfoliOS/static/css/main.e8b01c56.css.map",
-    "main.190f13bb.js.map": "/portfoliOS/static/js/main.190f13bb.js.map",
+    "main.b5e0f489.js.map": "/portfoliOS/static/js/main.b5e0f489.js.map",
     "483.0582da44.chunk.js.map": "/portfoliOS/static/js/483.0582da44.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8b01c56.css",
-    "static/js/main.190f13bb.js"
+    "static/js/main.b5e0f489.js"
   ]
 }
