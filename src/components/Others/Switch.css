@@ -1,0 +1,46 @@
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 55px;
+  height: 31px;
+}
+
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(120, 120, 128, .16); /* color of the switch when it's off */
+  border-radius: 32px; /* rounded border radius */
+  cursor: pointer;
+  transition: 0.4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: '';
+  height: 27px;
+  width: 27px;
+  left: 2px;
+  bottom: 2px;
+  background-color: white; /* color of the slider */
+  border-radius: 50%; /* rounded border radius for the slider */
+  transition: 0.4s;
+  box-shadow: 0px 3px 1px 0px rgba(0, 0, 0, 0.06), 0px 3px 8px 0px rgba(0, 0, 0, 0.15);
+}
+
+.switch input:checked + .slider {
+    background-color: #007aff;
+    /* background-color: #34c759;  color of the switch when it's on */
+}
+
+.switch input:checked + .slider:before {
+  transform: translateX(24px); /* position of the slider when the switch is on */
+}
