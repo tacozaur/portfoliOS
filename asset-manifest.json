@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/portfoliOS/static/css/main.e8b01c56.css",
-    "main.js": "/portfoliOS/static/js/main.b5e0f489.js",
-    "static/js/483.0582da44.chunk.js": "/portfoliOS/static/js/483.0582da44.chunk.js",
+    "main.css": "/portfoliOS/static/css/main.7cb3a47c.css",
+    "main.js": "/portfoliOS/static/js/main.bc3dd32a.js",
+    "static/js/483.4b6128a5.chunk.js": "/portfoliOS/static/js/483.4b6128a5.chunk.js",
     "static/media/pink-flowers.jpg": "/portfoliOS/static/media/pink-flowers.710bbf2f8d28de212f4b.jpg",
     "static/media/littlelemon-restaurant-project.PNG": "/portfoliOS/static/media/littlelemon-restaurant-project.9617a1c94e5c2d9863ef.PNG",
     "static/media/studymate-full-project.png": "/portfoliOS/static/media/studymate-full-project.08ac345263e47b937820.png",
@@ -30,12 +30,12 @@
     "static/media/html-logo.png": "/portfoliOS/static/media/html-logo.ff3cf75e3b7cbb4ea77c.png",
     "static/media/javascript-logo.png": "/portfoliOS/static/media/javascript-logo.266bd9fb2663dcc057b4.png",
     "index.html": "/portfoliOS/index.html",
-    "main.e8b01c56.css.map": "/portfoliOS/static/css/main.e8b01c56.css.map",
-    "main.b5e0f489.js.map": "/portfoliOS/static/js/main.b5e0f489.js.map",
-    "483.0582da44.chunk.js.map": "/portfoliOS/static/js/483.0582da44.chunk.js.map"
+    "main.7cb3a47c.css.map": "/portfoliOS/static/css/main.7cb3a47c.css.map",
+    "main.bc3dd32a.js.map": "/portfoliOS/static/js/main.bc3dd32a.js.map",
+    "483.4b6128a5.chunk.js.map": "/portfoliOS/static/js/483.4b6128a5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8b01c56.css",
-    "static/js/main.b5e0f489.js"
+    "static/css/main.7cb3a47c.css",
+    "static/js/main.bc3dd32a.js"
   ]
 }
