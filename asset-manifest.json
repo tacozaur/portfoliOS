@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfoliOS/static/css/main.259e4dc4.css",
-    "main.js": "/portfoliOS/static/js/main.a0810e97.js",
+    "main.css": "/portfoliOS/static/css/main.673b205f.css",
+    "main.js": "/portfoliOS/static/js/main.a658f1e7.js",
     "static/js/483.8c0392f2.chunk.js": "/portfoliOS/static/js/483.8c0392f2.chunk.js",
     "static/media/pink-flowers.jpg": "/portfoliOS/static/media/pink-flowers.710bbf2f8d28de212f4b.jpg",
     "static/media/littlelemon-restaurant-project.PNG": "/portfoliOS/static/media/littlelemon-restaurant-project.9617a1c94e5c2d9863ef.PNG",
@@ -30,12 +30,12 @@
     "static/media/html-logo.png": "/portfoliOS/static/media/html-logo.ff3cf75e3b7cbb4ea77c.png",
     "static/media/javascript-logo.png": "/portfoliOS/static/media/javascript-logo.266bd9fb2663dcc057b4.png",
     "index.html": "/portfoliOS/index.html",
-    "main.259e4dc4.css.map": "/portfoliOS/static/css/main.259e4dc4.css.map",
-    "main.a0810e97.js.map": "/portfoliOS/static/js/main.a0810e97.js.map",
+    "main.673b205f.css.map": "/portfoliOS/static/css/main.673b205f.css.map",
+    "main.a658f1e7.js.map": "/portfoliOS/static/js/main.a658f1e7.js.map",
     "483.8c0392f2.chunk.js.map": "/portfoliOS/static/js/483.8c0392f2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.259e4dc4.css",
-    "static/js/main.a0810e97.js"
+    "static/css/main.673b205f.css",
+    "static/js/main.a658f1e7.js"
   ]
 }
