@@ -52,6 +52,7 @@ const ProjectSection = ({theme}) => {
               images={frontEndImages2}
               projectImage={theme === 'dark' ? myPortfolioImgDark :myPortfolioImg}
               url='project-portfolios'
+              externalUrl='https://github.com/tacozaur/portfoliOS'
             />
         </div>
         <div className='
@@ -69,6 +70,7 @@ const ProjectSection = ({theme}) => {
               images={frontEndImages}
               projectImage={littleLemonRestaurantImg}
               url='project-littlelemon'
+              externalUrl='https://github.com/tacozaur/littlelemonrestaurant'
             />
           </div>
           <div className='

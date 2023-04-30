@@ -11,7 +11,7 @@ import Nav from './Others/Nav'
 const Header = ({setSelectedTab, theme, handleThemeSwitch}) => {
 
   return (
-    <header className='max-w-screen-lg my-6 flex flex-col justify-between text-lg md:my-12 md:flex-row items-center'>
+    <header className='max-w-screen-lg my-6 flex flex-col gap-8 md:gap-0 justify-between text-lg md:my-12 md:flex-row items-center'>
         <div className='flex gap-4 xl:w-40'>
           <Switch theme={theme} handleThemeSwitch={handleThemeSwitch}/>
           <span className='font-semibold w-8'>

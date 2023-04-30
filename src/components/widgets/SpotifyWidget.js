@@ -26,25 +26,26 @@ const SpotifyWidget = () => {
         >
             <SwiperSlide>
                 <div className='
-                sm:justify-center
+                justify-center w-280 mx-auto my-0 md:w-auto
                 p-8 flex lg:flex-col gap-8 h-full text-sm lg:text-base
                 '>
                     <div className='
-                    sm:flex-col sm:gap-16
+                    items-center
+                    flex-col sm:gap-16
                     md:gap-28
                     flex lg:flex-row lg:gap-8
                     '>
                         <div className='flex-1 overflow-hidden justify-center'>
                             <img className='
-                            sm:w-40
+                            w-40 sm:w-80 sm:h-60
                             md:h-auto md:w-40
-                            xl:h-12.75rem xl:w-12.75rem rounded-2xl drop-shadow-md
+                            xl:h-12.75rem xl:w-12.75rem rounded-2xl
                             ' src={myFavSongImg2} alt='Favorite Song Image'/>
                         </div>
                         <div className='
                         flex-1 flex flex-col justify-between
                         '>
-                            <div className='sm:hidden md:block'>
+                            <div className='hidden md:block'>
                                 <img className='h-12 w-12' src={spotifyLogo} alt='spotify logo image'/>
                             </div>
                             <div>
@@ -69,25 +70,26 @@ const SpotifyWidget = () => {
             </SwiperSlide>
             <SwiperSlide>
                 <div className='
-                sm:justify-center
+                justify-center w-280 mx-auto my-0 md:w-auto
                 p-8 flex lg:flex-col gap-8 h-full text-sm lg:text-base
                 '>
                     <div className='
-                    sm:flex-col sm:gap-16
+                    items-center
+                    flex-col sm:gap-16
                     md:gap-28
                     flex lg:flex-row lg:gap-8
                     '>
                         <div className='flex-1 overflow-hidden justify-center'>
                             <img className='
-                            sm:w-40
+                            w-40 sm:w-80 sm:h-60
                             md:h-auto md:w-40
-                            xl:h-12.75rem xl:w-12.75rem rounded-2xl drop-shadow-md
+                            xl:h-12.75rem xl:w-12.75rem rounded-2xl
                             ' src={myFavSongImg} alt='Favorite Song Image'/>
                         </div>
                         <div className='
                         flex-1 flex flex-col justify-between
                         '>
-                            <div className='sm:hidden md:block'>
+                            <div className='hidden md:block'>
                                 <img className='h-12 w-12' src={spotifyLogo} alt='spotify logo image'/>
                             </div>
                             <div>

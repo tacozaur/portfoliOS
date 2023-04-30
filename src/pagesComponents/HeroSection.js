@@ -79,7 +79,7 @@ const Hero = ({selectedTab, theme}) => {
           md:col-span-2
           lg:col-span-2 lg:row-span-1
           xl:col-span-1
-          rounded-apple bg-default-blue
+          rounded-apple bg-default-blue group
           `}>
             <a href='https://www.linkedin.com/in/emilian-pirtea-59a748232' target='_blank' rel='noopener noreferrer'>
               <SmallWidget content={<BsLinkedin color='white' className='transition-all duration-200 text-7xl sm:text-8xl group-hover:text-7xl'/>}/>
@@ -109,7 +109,7 @@ const Hero = ({selectedTab, theme}) => {
               images={frontEndImages2}
               projectImage={theme === 'dark' ? myPortfolioImgDark :myPortfolioImg}
               url='project-portfolios'
-              externalUrl='https://github.com'
+              externalUrl='https://github.com/tacozaur/portfoliOS'
             />
           </div>
           <div className='
@@ -139,7 +139,7 @@ const Hero = ({selectedTab, theme}) => {
               images={frontEndImages}
               projectImage={littleLemonRestaurantImg}
               url='project-littlelemon'
-              externalUrl='https://github.com'
+              externalUrl='https://github.com/tacozaur/littlelemonrestaurant'
             />
           </div>
           <div className='
@@ -159,7 +159,7 @@ const Hero = ({selectedTab, theme}) => {
           sm:col-span-1
           md:col-span-2
           lg:col-span-1 row-span-1 rounded-apple text-white
-          bg-neutral-black
+          bg-neutral-black group
           `}>
             <a href='https://www.instagram.com/tacotuesday.everyday/' target='_blank' rel='noopener noreferrer'>
               <SmallWidget content={<BsInstagram className='transition-all duration-200 text-6xl sm:text-8xl group-hover:text-7xl'/>}/>

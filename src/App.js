@@ -54,7 +54,7 @@ function App() {
           description={projectsData[0].description}
           logos={portfoliosToolsImgs}
           images={portfoliosImgs}
-          demoLink=''
+          demoLink='https://tacozaur.github.io/portfoliOS/'
           />} />
         <Route path='/project-littlelemon' element={<ProjectPage
           title={projectsData[1].title}
@@ -62,7 +62,7 @@ function App() {
           description={projectsData[1].description}
           logos={littleLemonToolsImgs}
           images={littleLemonImgs}
-          demoLink=''
+          demoLink='https://tacozaur.github.io/littlelemonrestaurant/'
         />} />
         <Route path='/project-studymate' element={<ProjectPage
           title={projectsData[2].title}
