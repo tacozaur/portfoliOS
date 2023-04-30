@@ -18,6 +18,7 @@ const MapWidget = ({theme}) => {
     return (
         <>
             <ReactMapGL
+                className='overflow-hidden'
                 mapboxAccessToken="pk.eyJ1IjoidGFjb21pbGlhbiIsImEiOiJjbGd0am5qeGsxNzU4M2Zta2U1MDhsaTk1In0.D2icY3Z2bwJy-pU6nP98KA"
                 attributionControl={false}
                 initialViewState={{
