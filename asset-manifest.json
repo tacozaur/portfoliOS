@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.673b205f.css",
-    "main.js": "/static/js/main.52bd7a1e.js",
+    "main.css": "/static/css/main.d482c9c1.css",
+    "main.js": "/static/js/main.fb324e77.js",
     "static/js/483.6cdfc068.chunk.js": "/static/js/483.6cdfc068.chunk.js",
     "static/media/pink-flowers.jpg": "/static/media/pink-flowers.710bbf2f8d28de212f4b.jpg",
     "static/media/littlelemon-restaurant-project.PNG": "/static/media/littlelemon-restaurant-project.9617a1c94e5c2d9863ef.PNG",
@@ -30,12 +30,12 @@
     "static/media/html-logo.png": "/static/media/html-logo.ff3cf75e3b7cbb4ea77c.png",
     "static/media/javascript-logo.png": "/static/media/javascript-logo.266bd9fb2663dcc057b4.png",
     "index.html": "/index.html",
-    "main.673b205f.css.map": "/static/css/main.673b205f.css.map",
-    "main.52bd7a1e.js.map": "/static/js/main.52bd7a1e.js.map",
+    "main.d482c9c1.css.map": "/static/css/main.d482c9c1.css.map",
+    "main.fb324e77.js.map": "/static/js/main.fb324e77.js.map",
     "483.6cdfc068.chunk.js.map": "/static/js/483.6cdfc068.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.673b205f.css",
-    "static/js/main.52bd7a1e.js"
+    "static/css/main.d482c9c1.css",
+    "static/js/main.fb324e77.js"
   ]
 }
