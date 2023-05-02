@@ -19,13 +19,13 @@ const SwiperWidget = (props) => {
             className='rounded-apple'
             autoplay={{ delay: 6000, disableOnInteraction: false}}
         >
-            <SwiperSlide>
+            <SwiperSlide className='rounded-apple'>
                 <img className='rounded-apple object-cover' src={props.firstImg} alt='Image 1'/>
             </SwiperSlide>
-            <SwiperSlide>
+            <SwiperSlide className='rounded-apple'>
                 <img className='rounded-apple object-cover' src={props.secondImg} alt='Image 2'/>
             </SwiperSlide>
-            <SwiperSlide>
+            <SwiperSlide className='rounded-apple'>
                 <img className='rounded-apple object-cover' src={props.thirdImg} alt='Image 3'/>
             </SwiperSlide>
         </Swiper>

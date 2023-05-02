@@ -99,7 +99,7 @@ const ContactSection = ({theme}) => {
           sm:col-span-2 sm:row-span-1
           md:col-span-3 md:row-span-1
           lg:col-span-2 lg:row-span-1
-          xl:col-span-2 xl:row-span-1 overflow-hidden rounded-apple
+          xl:col-span-2 xl:row-span-1 overflow-hidden sm:rounded-apple
           "> {/* Add a class or style to define the container size */}
             <MapWidget theme={theme}/>
           </div>

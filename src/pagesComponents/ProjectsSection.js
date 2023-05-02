@@ -157,7 +157,7 @@ const ProjectSection = ({theme}) => {
           sm:col-span-1 sm:row-span-1
           md:col-span-3 md:row-span-1
           lg:col-span-1 lg:row-span-1
-          xl:col-span-2 xl:row-span-1 overflow-hidden rounded-apple
+          xl:col-span-2 xl:row-span-1 overflow-hidden sm:rounded-apple
           "> {/* Add a class or style to define the container size */}
             <MapWidget theme={theme}/>
           </div>
@@ -168,7 +168,7 @@ const ProjectSection = ({theme}) => {
           sm:col-span-1 sm:row-span-1
           md:col-span-1 md:row-span-1
           lg:col-span-2 lg:row-span-1
-          xl:col-span-2 xl:row-span-1 bg-white text-white rounded-apple 
+          xl:col-span-2 xl:row-span-1 bg-white text-white rounded-apple
           '>
             <PresentationWidget/>
           </div>
