@@ -8,7 +8,7 @@ const PrimaryButton = (props) => {
         <button
         className='
         tracking-wider
-        text-xs py-2 px-2 hover:lg:px-8
+        text-xs py-3 px-4
         sm:text-14 sm:py-3 sm:px-6
         md:text-16
         lg:text-16 lg:py-4 lg:px-6
