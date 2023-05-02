@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.d482c9c1.css",
-    "main.js": "/static/js/main.fb324e77.js",
+    "main.css": "/static/css/main.17b57814.css",
+    "main.js": "/static/js/main.e8c1d861.js",
     "static/js/483.6cdfc068.chunk.js": "/static/js/483.6cdfc068.chunk.js",
+    "static/media/blue-flowers.jpg": "/static/media/blue-flowers.ad211b51d3080dccd2ac.jpg",
     "static/media/pink-flowers.jpg": "/static/media/pink-flowers.710bbf2f8d28de212f4b.jpg",
     "static/media/littlelemon-restaurant-project.PNG": "/static/media/littlelemon-restaurant-project.9617a1c94e5c2d9863ef.PNG",
     "static/media/studymate-full-project.png": "/static/media/studymate-full-project.08ac345263e47b937820.png",
     "static/media/kata-full-project.png": "/static/media/kata-full-project.ec8656d946be6491cac9.png",
-    "static/media/blue-flowers.jpg": "/static/media/blue-flowers.7efe3a96216ddc7ed227.jpg",
     "static/media/kata-full-project-2.png": "/static/media/kata-full-project-2.0982fb266befaea7988b.png",
     "static/media/kata-full-project-3.png": "/static/media/kata-full-project-3.a4c4e221f78fe1e085ed.png",
     "static/media/katan-project.PNG": "/static/media/katan-project.36333be9bcbbee13d8b6.PNG",
@@ -30,12 +30,12 @@
     "static/media/html-logo.png": "/static/media/html-logo.ff3cf75e3b7cbb4ea77c.png",
     "static/media/javascript-logo.png": "/static/media/javascript-logo.266bd9fb2663dcc057b4.png",
     "index.html": "/index.html",
-    "main.d482c9c1.css.map": "/static/css/main.d482c9c1.css.map",
-    "main.fb324e77.js.map": "/static/js/main.fb324e77.js.map",
+    "main.17b57814.css.map": "/static/css/main.17b57814.css.map",
+    "main.e8c1d861.js.map": "/static/js/main.e8c1d861.js.map",
     "483.6cdfc068.chunk.js.map": "/static/js/483.6cdfc068.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d482c9c1.css",
-    "static/js/main.fb324e77.js"
+    "static/css/main.17b57814.css",
+    "static/js/main.e8c1d861.js"
   ]
 }
